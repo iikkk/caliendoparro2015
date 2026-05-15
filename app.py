@@ -67,6 +67,13 @@ with st.sidebar:
     st.caption("General-equilibrium counterfactuals — tariff changes 1993 → 2005")
 
     st.markdown("---")
+    st.caption(
+        "Data: Caliendo & Parro (2015) framework from 'Estimates of the Trade and Welfare Effects of NAFTA' (Review of Economic Studies). "
+        "Web-app built by Koo Ii & Fuyuko Onishi, Yale University M.A. IDE Research Assistants. "
+        "Scenarios computed in MATLAB; loaded from pre-calculated `.mat` files."
+    )
+  
+    st.markdown("---")
     st.subheader("Country filter")
     selected_countries = st.multiselect(
         "Select countries to display",
@@ -90,12 +97,6 @@ with st.sidebar:
     )
     show_annotations = st.checkbox("Show value labels on bars", value=True)
 
-    st.markdown("---")
-    st.caption(
-        "Data: Caliendo & Parro (2015) framework from 'Estimates of the Trade and Welfare Effects of NAFTA' (Review of Economic Studies). "
-        "Web-app built by Koo Ii & Fuyuko Onishi, Yale University M.A. IDE Research Assistants. "
-        "Scenarios computed in MATLAB; loaded from pre-calculated `.mat` files."
-    )
 
 # ── Load data ────────────────────────────────────────────────────────────────
 
