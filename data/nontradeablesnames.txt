@@ -1,0 +1,20 @@
+Electricity
+Construction
+Retail
+Hotels
+Land Transport
+Water Transport
+Air Transport
+Aux Transport
+Post
+Finance
+Real State
+Renting Mach
+Computer
+R&D
+Other Business
+Public
+Education
+Health
+Other services
+Private

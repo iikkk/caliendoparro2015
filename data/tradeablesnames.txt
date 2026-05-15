@@ -1,0 +1,20 @@
+Agriculture
+Mining
+Food
+Textile
+Wood
+Paper
+Petroleum
+Chemicals
+Plastic
+Minerals
+Basic metals
+Metal products
+Machinery n.e.c
+Office
+Electrical
+Communication
+Medical
+Auto
+Other Transport
+Other
