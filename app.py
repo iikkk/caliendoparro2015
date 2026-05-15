@@ -92,7 +92,7 @@ with st.sidebar:
 
     st.markdown("---")
     st.caption(
-        "Data: Caliendo & Parro (2015) framework from "Estimates of the Trade and Welfare Effects of NAFTA" (Review of Economic Studies). "
+        "Data: Caliendo & Parro (2015) framework from 'Estimates of the Trade and Welfare Effects of NAFTA' (Review of Economic Studies). "
         "Web-app built by Koo Ii & Fuyuko Onishi, Yale University M.A. IDE Research Assistants."
         "Scenarios computed in MATLAB; loaded from pre-calculated `.mat` files."
     )
